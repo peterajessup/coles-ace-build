@@ -18,7 +18,7 @@ spec:
             memory: 1Gi
   version: 12.0.2.0-r2
   imagePullSecrets:
-    name: default-dockercfg-kjxtv
+    name: default-dockercfg-784vv
   license:
     accept: true
     license: L-KSBM-C87FU2
@@ -32,6 +32,6 @@ spec:
   adminServerSecure: false
   tracing:
     enabled: true
-    namespace: od
+    namespace: cp4i
   logFormat: basic
-  configurations: ["mqpolicy", "key.jks", "kafkapolicy", "httpsconf", "scramparms", "es-cert-ace.jks"]
+  configurations: ["mqpolicy", "key.jks", "httpsconf", "scramparms"]
