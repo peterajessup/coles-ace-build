@@ -3,6 +3,8 @@ oc project ace
 oc delete Configuration key.jks
 oc delete Configuration httpsconf
 oc delete Configuration mqpolicy
+oc delete Configuration scramparms
+
 
 set -e
 
