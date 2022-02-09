@@ -1,6 +1,6 @@
 set +e
 
-oc project ace
+oc project cp4i
 
 oc delete BuildConfig aceivt
 
