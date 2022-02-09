@@ -1,5 +1,5 @@
 oc project ace
-
+set +e
 oc delete Configuration key.jks
 oc delete Configuration httpsconf
 oc delete Configuration mqpolicy
