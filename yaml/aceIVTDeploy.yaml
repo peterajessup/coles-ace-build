@@ -2,7 +2,7 @@ apiVersion: appconnect.ibm.com/v1beta1
 kind: IntegrationServer
 metadata:
   name: is2
-  namespace: ace
+  namespace: cp4i
 spec:
   pod:
     containers:
