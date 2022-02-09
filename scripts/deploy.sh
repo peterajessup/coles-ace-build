@@ -1,4 +1,4 @@
-oc project ace
+oc project cp4i
 set +e
 oc delete Configuration key.jks
 oc delete Configuration httpsconf
