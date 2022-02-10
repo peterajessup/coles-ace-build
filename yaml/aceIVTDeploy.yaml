@@ -16,12 +16,12 @@ spec:
           requests:
             cpu: 1
             memory: 1Gi
-  version: 12.0.3.0-r1
+  version: 12.0.2.0-r2
   imagePullSecrets:
     name: default-dockercfg-784vv
   license:
     accept: true
-    license: L-APEH-C79SB3
+    license: L-KSBM-C87FAW
     use: AppConnectEnterpriseNonProduction
   useCommonServices: true
   enableMetrics: true
