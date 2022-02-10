@@ -21,8 +21,8 @@ spec:
     name: default-dockercfg-784vv
   license:
     accept: true
-    license: L-KSBM-C87FAW
-    use: AppConnectEnterpriseNonProduction
+    license: L-KSBM-C87FU2
+    use: CloudPakForIntegrationNonProduction
   useCommonServices: true
   enableMetrics: true
   replicas: 1
